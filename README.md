@@ -1,0 +1,3 @@
+# ezGPT
+
+`npm run dev`
